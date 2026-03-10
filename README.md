@@ -24,6 +24,13 @@ Production-grade backup tool with compression, SHA256 validation, and intelligen
 
 ---
 
+## 📁 Additional Projects
+
+- **Smart File Organizer** (Week 6) - CLI tool with category-based sorting and duplicate detection
+- [https://github.com/Aboubakr2000Cloud/Cloud_Learning_Project/blob/main/docs/week6/README.md]
+
+---
+
 ## 💻 Skills Acquired
 
 **Linux & System Administration:**
