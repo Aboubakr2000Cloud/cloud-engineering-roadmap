@@ -71,4 +71,3 @@ Production-grade backup tool with compression, SHA256 validation, and intelligen
 ---
 
 **Last Updated:** February 2025
-```
