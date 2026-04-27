@@ -36,6 +36,9 @@ EC2 deployment tool that launches a production-like Ubuntu server, auto-configur
 - **Smart File Organizer** (Week 6) - CLI tool with category-based sorting and duplicate detection
 - https://github.com/Aboubakr2000Cloud/Cloud_Learning_Project/blob/main/docs/week6/README.md
 
+- **VPC Infra Deployer** (Week 12) - AWS network infrastructure tool that builds a production-structured VPC from scratch via bash and the AWS CLI
+- https://github.com/Aboubakr2000Cloud/VPC-Infra-Deployer
+
 ---
 
 ## 💻 Skills Acquired
