@@ -5,8 +5,8 @@ My structured journey to becoming a Cloud Engineer, following a comprehensive 24
 
 ## ✅ Progress
 - **Weeks 1-9:** Complete
-- **Weeks 10-12:** In Progress (AWS Fundamentals)
-- **Weeks 13-24:** Upcoming
+- **Weeks 10-12:** complete
+- **Weeks 13-24:** in progress
 
 ## 🚀 Featured Projects
 
@@ -21,6 +21,13 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 Production-grade backup tool with compression, SHA256 validation, and intelligent rotation.
 
 **Tech Stack:** Python, subprocess, tar/gzip, checksums, CLI development
+
+---
+
+### [Cloud Nginx Deployer](https://github.com/Aboubakr2000Cloud/cloud-nginx-deployer) - Week 11
+EC2 deployment tool that launches a production-like Ubuntu server, auto-configures it on boot via user data, serves a custom Nginx page, manages an attached EBS volume, creates an AMI snapshot, and tears everything down cleanly 
+
+**Tech Stack:** Bash, AWS CLI, SSH
 
 ---
 
@@ -49,9 +56,9 @@ Production-grade backup tool with compression, SHA256 validation, and intelligen
 - subprocess integration
 - Backup strategies, file compression
 - Production-ready automation patterns
+- AWS (EC2, S3, VPC, IAM)
 
 **Upcoming:**
-- AWS (EC2, S3, VPC, IAM)
 - Infrastructure as Code (Terraform)
 - Containers (Docker, ECS)
 - CI/CD (GitHub Actions, CodePipeline)
@@ -66,8 +73,8 @@ Production-grade backup tool with compression, SHA256 validation, and intelligen
 | 5-6 | Python Fundamentals | ✅ |
 | 7-8 | Python Automation & APIs | ✅ |
 | 9 | Git & Collaboration | ✅ |
-| 10-12 | AWS Fundamentals | 🔄 |
-| 13-16 | Terraform & IaC | ⏳ |
+| 10-12 | AWS Fundamentals | ✅ |
+| 13-16 | Terraform & IaC | 🔄 |
 | 17-20 | Docker & CI/CD | ⏳ |
 | 21-24 | Advanced & Final Project | ⏳ |
 
@@ -77,4 +84,4 @@ Production-grade backup tool with compression, SHA256 validation, and intelligen
 
 ---
 
-**Last Updated:** March 2025
+**Last Updated:** April 2025
