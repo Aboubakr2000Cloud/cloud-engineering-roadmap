@@ -58,6 +58,7 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 - **[ECS Weather Platform](https://github.com/Aboubakr2000Cloud/ecs-weather-platform)** — Initial containerized deployment stage of the weather platform on AWS ECS
 - **[ECS Weather Platform — CI/CD](https://github.com/Aboubakr2000Cloud/ecs-weather-platform-cicd)** — Added a full CI/CD pipeline via GitHub Actions to the ECS deployment
 - **[ECS Weather Platform — Monitoring](https://github.com/Aboubakr2000Cloud/ecs-weather-platform-with-monitoring)** — Added CloudWatch monitoring and alerting to the CI/CD-enabled platform
+- **[Weather Serverless Platform](https://github.com/Aboubakr2000Cloud/weather-serverless-platform)** — Event-driven serverless pipeline using Lambda, API Gateway, and SNS notifications
 - **[VPC Infrastructure Deployer](https://github.com/Aboubakr2000Cloud/VPC-Infra-Deployer)** — Production-structured AWS VPC built from scratch via Bash and the AWS CLI
 - **[Cloud Nginx Deployer](https://github.com/Aboubakr2000Cloud/cloud-nginx-deployer)** — End-to-end EC2 deployment with user-data automation, EBS, and AMI snapshotting
 - **[Terraform AWS Infra](https://github.com/Aboubakr2000Cloud/terraform-aws-infra)** — Additional Terraform-managed AWS infrastructure
@@ -75,7 +76,7 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 - Core language & data structures, file I/O, API integration & JSON handling, error handling/logging/retry patterns, CLI tooling with argparse
 
 ### AWS  
-- IAM, S3, EC2, VPC, RDS, ALB/ASG, ECS, Lambda (in progress), CloudWatch, IAM (least privilege), KMS, AWS Secrets Manager, Parameter Store
+- IAM, S3, EC2, VPC, RDS, ALB/ASG, ECS, Lambda (in progress), CloudWatch, IAM (least privilege), KMS, AWS Secrets Manager, Parameter Store, Serverless architectures (Lambda, API Gateway)
 
 ### Infrastructure as Code  
 - Terraform (modules, remote state, workspaces)
@@ -84,7 +85,7 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 - Docker, Docker Compose, AWS ECS/ECR, GitHub Actions, CI/CD pipeline design
 
 ### In Progress  
-- Serverless architectures (Lambda, API Gateway), and a capstone project integrating full-stack cloud architecture with monitoring and IaC.
+- A capstone project integrating full-stack cloud architecture with monitoring and IaC.
 
 ---
 
